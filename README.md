@@ -1,11 +1,11 @@
 
-# CodSoft Data Science Internship Projects 💻✨
+# CodSoft Data Science Internship Projects 
 
 This repository contains machine learning projects completed as part of the CodSoft Data Science Internship.
 
 ---
 
-# 🚢 Titanic Survival Prediction
+#  Titanic Survival Prediction
 
 ## Project Overview
 This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
@@ -28,7 +28,7 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 
 ---
 
-# 🌸 Iris Flower Classification
+#  Iris Flower Classification
 
 ## Project Overview
 This project classifies iris flower species using machine learning techniques.
@@ -48,7 +48,7 @@ The Iris dataset is loaded directly from the Scikit-learn library.
 
 ---
 
-# 📈 Sales Prediction Using Python
+#  Sales Prediction Using Python
 
 ## Project Overview
 This project predicts product sales based on advertising budgets using machine learning.
@@ -70,7 +70,7 @@ This project predicts product sales based on advertising budgets using machine l
 
 ---
 
-# 🎬 Movie Rating Prediction
+#  Movie Rating Prediction
 
 ## Project Overview
 This project predicts movie ratings using machine learning techniques based on movie-related features.
@@ -90,7 +90,7 @@ This project predicts movie ratings using machine learning techniques based on m
 
 ---
 
-# 💳 Credit Card Fraud Detection
+#  Credit Card Fraud Detection
 
 ## Project Overview
 This project identifies fraudulent credit card transactions using machine learning techniques.
