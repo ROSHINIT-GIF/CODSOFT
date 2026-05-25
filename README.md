@@ -1,4 +1,4 @@
-```text id="f8m2vk"
+
 # CodSoft Data Science Internship Projects 💻✨
 
 This repository contains machine learning projects completed as part of the CodSoft Data Science Internship.
