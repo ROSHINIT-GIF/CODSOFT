@@ -1,9 +1,13 @@
-# Titanic Survival Prediction 🚢
+# CodSoft Data Science Internship Projects 💻✨
 
-This project is created as part of the CodSoft Data Science Internship.
+This repository contains machine learning projects created as part of the CodSoft Data Science Internship.
+
+---
+
+# 🚢 Titanic Survival Prediction
 
 ## Project Overview
-The goal of this project is to predict whether a passenger survived the Titanic disaster using machine learning techniques.
+This project predicts whether a passenger survived the Titanic disaster using machine learning techniques.
 
 ## Technologies Used
 - Python
@@ -21,16 +25,26 @@ The goal of this project is to predict whether a passenger survived the Titanic 
 - Age
 - Fare
 
-## Project Workflow
-1. Dataset loading
-2. Data cleaning
-3. Handling missing values
-4. Data preprocessing
-5. Model training
-6. Accuracy evaluation
-7. Data visualization
+---
 
-## Result
-The model was successfully trained and tested using Titanic passenger data.
+# 🌸 Iris Flower Classification
 
-✨ Built for learning and internship practice.
+## Project Overview
+This project classifies iris flower species using machine learning techniques.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Google Colab
+
+## Machine Learning Model
+- Logistic Regression
+
+## Dataset
+The Iris dataset is loaded directly from the Scikit-learn library.
+
+---
+
+✨ Built for learning, practice, and internship experience.
